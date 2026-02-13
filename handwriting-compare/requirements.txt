@@ -1,0 +1,12 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+scipy>=1.11
+scikit-image>=0.22
+matplotlib>=3.8
+pandas>=2.2
+tqdm>=4.66
+pillow>=10.2
+jupyter>=1.0
+notebook>=7.0
+pytest>=8.0
